@@ -20,6 +20,7 @@ Use `pip`:
 
 ```
 pip install datascience
+
 ```
 
 A log of all changes can be found in CHANGELOG.md.
